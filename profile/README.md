@@ -7,14 +7,23 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/seam-money/)
 [![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sE47euvvEq)
 
-## <samp>~ ❯ git shortlog --all --summary</samp>
+## <samp>~ ❯ seam perp --commits</samp>
 
-<img src="./assets/commits.svg" width="100%" alt="commits across all seammoney repos, last 12 months"/>
+<img src="./assets/market.svg" width="100%" alt="org-wide commit candles + repo order book"/>
 
-## <samp>~ ❯ ls ~/seammoney --sort=stars</samp>
+## <samp>~ ❯ ls ~/seammoney --sort=dope</samp>
 
 <!-- REPOS:START -->
-<table width="100%"><tr><td width="50%"><a href="https://github.com/SeamMoney/tx-composer"><b><samp>tx-composer</samp></b></a> <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square" align="right"/><br/><sub>Simulate-first DeFi transaction composer for Aptos</sub><br/><sub>⭐ 5 · ⑂ 0</sub></td><td width="50%"><a href="https://github.com/SeamMoney/seam-frontend"><b><samp>seam-frontend</samp></b></a> <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square" align="right"/><br/><sub>Aptos Move Module Explorer and Txn Runner</sub><br/><sub>⭐ 4 · ⑂ 4</sub></td></tr><tr><td width="50%"><a href="https://github.com/SeamMoney/aptos-polymarket"><b><samp>aptos-polymarket</samp></b></a> <img src="https://img.shields.io/badge/-Move-4a90e2?style=flat-square" align="right"/><br/><sub>Polymarket Clone on Aptos with HFT Trading Bots to Showcase Aptos' TPS</sub><br/><sub>⭐ 2 · ⑂ 0</sub></td><td width="50%"><a href="https://github.com/SeamMoney/MoveGPT"><b><samp>MoveGPT</samp></b></a> <img src="https://img.shields.io/badge/-Move-4a90e2?style=flat-square" align="right"/><br/><sub></sub><br/><sub>⭐ 2 · ⑂ 0</sub></td></tr><tr><td width="50%"><a href="https://github.com/SeamMoney/seam-contracts"><b><samp>seam-contracts</samp></b></a> <img src="https://img.shields.io/badge/-Move-4a90e2?style=flat-square" align="right"/><br/><sub></sub><br/><sub>⭐ 2 · ⑂ 4</sub></td><td width="50%"><a href="https://github.com/SeamMoney/cash.trading"><b><samp>cash.trading</samp></b></a> <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square" align="right"/><br/><sub>cash.trading Decibel trading frontend, automation, and CASH rewards on Aptos</sub><br/><sub>⭐ 1 · ⑂ 1</sub></td></tr></table>
+<p align="center">
+<a href="https://github.com/SeamMoney/tx-composer"><img src="./assets/repo-tx-composer.svg" width="418" alt="tx-composer"/></a>
+<a href="https://github.com/SeamMoney/cash.trading"><img src="./assets/repo-cash.trading.svg" width="418" alt="cash.trading"/></a>
+<a href="https://github.com/SeamMoney/aptos-polymarket"><img src="./assets/repo-aptos-polymarket.svg" width="418" alt="aptos-polymarket"/></a>
+<a href="https://github.com/SeamMoney/aptos-intelligence"><img src="./assets/repo-aptos-intelligence.svg" width="418" alt="aptos-intelligence"/></a>
+<a href="https://github.com/SeamMoney/MoveGPT"><img src="./assets/repo-MoveGPT.svg" width="418" alt="MoveGPT"/></a>
+<a href="https://github.com/SeamMoney/shelby-content-rewards"><img src="./assets/repo-shelby-content-rewards.svg" width="418" alt="shelby-content-rewards"/></a>
+<a href="https://github.com/SeamMoney/cash-orderbook"><img src="./assets/repo-cash-orderbook.svg" width="418" alt="cash-orderbook"/></a>
+<a href="https://github.com/SeamMoney/shelby-pulse"><img src="./assets/repo-shelby-pulse.svg" width="418" alt="shelby-pulse"/></a>
+</p>
 <!-- REPOS:END -->
 
 <br/>
