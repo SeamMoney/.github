@@ -436,7 +436,7 @@ def main():
     for r in showcase:
         (assets / f"repo-{r['name']}.svg").write_text(render_repo_card(r))
         cells.append(
-            f'<a href="{r["html_url"]}"><img src="./assets/repo-{r["name"]}.svg" width="418" alt="{esc(r["name"])}"/></a>'
+            f'<a href="{r["html_url"]}"><img src="./assets/repo-{r["name"]}.svg" width="384" alt="{esc(r["name"])}"/></a>'
         )
     grid = '<p align="center">\n' + "\n".join(cells) + "\n</p>"
 
