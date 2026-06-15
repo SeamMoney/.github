@@ -18,11 +18,11 @@
 <a href="https://github.com/SeamMoney/tx-composer"><img src="./assets/repo-tx-composer.svg" width="384" alt="tx-composer"/></a>
 <a href="https://github.com/SeamMoney/cash.trading"><img src="./assets/repo-cash.trading.svg" width="384" alt="cash.trading"/></a>
 <a href="https://github.com/SeamMoney/aptos-polymarket"><img src="./assets/repo-aptos-polymarket.svg" width="384" alt="aptos-polymarket"/></a>
-<a href="https://github.com/SeamMoney/aptos-intelligence"><img src="./assets/repo-aptos-intelligence.svg" width="384" alt="aptos-intelligence"/></a>
 <a href="https://github.com/SeamMoney/MoveGPT"><img src="./assets/repo-MoveGPT.svg" width="384" alt="MoveGPT"/></a>
 <a href="https://github.com/SeamMoney/shelby-content-rewards"><img src="./assets/repo-shelby-content-rewards.svg" width="384" alt="shelby-content-rewards"/></a>
-<a href="https://github.com/SeamMoney/cash-orderbook"><img src="./assets/repo-cash-orderbook.svg" width="384" alt="cash-orderbook"/></a>
 <a href="https://github.com/SeamMoney/shelby-pulse"><img src="./assets/repo-shelby-pulse.svg" width="384" alt="shelby-pulse"/></a>
+<a href="https://github.com/SeamMoney/caesars-calendar"><img src="./assets/repo-caesars-calendar.svg" width="384" alt="caesars-calendar"/></a>
+<a href="https://github.com/SeamMoney/kraken-prediction-market"><img src="./assets/repo-kraken-prediction-market.svg" width="384" alt="kraken-prediction-market"/></a>
 </p>
 <!-- REPOS:END -->
 
