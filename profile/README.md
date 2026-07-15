@@ -21,8 +21,8 @@
 <a href="https://github.com/SeamMoney/sui-options"><img src="./assets/repo-sui-options.svg" width="384" alt="sui-options"/></a>
 <a href="https://github.com/SeamMoney/aptos-intelligence"><img src="./assets/repo-aptos-intelligence.svg" width="384" alt="aptos-intelligence"/></a>
 <a href="https://github.com/SeamMoney/MoveGPT"><img src="./assets/repo-MoveGPT.svg" width="384" alt="MoveGPT"/></a>
-<a href="https://github.com/SeamMoney/shelby-content-rewards"><img src="./assets/repo-shelby-content-rewards.svg" width="384" alt="shelby-content-rewards"/></a>
 <a href="https://github.com/SeamMoney/cash-orderbook"><img src="./assets/repo-cash-orderbook.svg" width="384" alt="cash-orderbook"/></a>
+<a href="https://github.com/SeamMoney/shelby-pulse"><img src="./assets/repo-shelby-pulse.svg" width="384" alt="shelby-pulse"/></a>
 </p>
 <!-- REPOS:END -->
 
