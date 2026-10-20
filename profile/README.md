@@ -20,9 +20,9 @@
 <a href="https://github.com/SeamMoney/sui-options"><img src="./assets/repo-sui-options.svg" width="384" alt="sui-options"/></a>
 <a href="https://github.com/SeamMoney/aptos-intelligence"><img src="./assets/repo-aptos-intelligence.svg" width="384" alt="aptos-intelligence"/></a>
 <a href="https://github.com/SeamMoney/MoveGPT"><img src="./assets/repo-MoveGPT.svg" width="384" alt="MoveGPT"/></a>
+<a href="https://github.com/SeamMoney/turbotokens"><img src="./assets/repo-turbotokens.svg" width="384" alt="turbotokens"/></a>
 <a href="https://github.com/SeamMoney/shelby-content-rewards"><img src="./assets/repo-shelby-content-rewards.svg" width="384" alt="shelby-content-rewards"/></a>
 <a href="https://github.com/SeamMoney/cash-orderbook"><img src="./assets/repo-cash-orderbook.svg" width="384" alt="cash-orderbook"/></a>
-<a href="https://github.com/SeamMoney/.github"><img src="./assets/repo-.github.svg" width="384" alt=".github"/></a>
 </p>
 <!-- REPOS:END -->
 
